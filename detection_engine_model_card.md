@@ -67,10 +67,6 @@ This model must detect attacks with extremely high precision in order to avoid c
 
 This model is capable of detecting 92% of all known advanced attacks at a 95% precision. 
 
-#### Summary
-
-{{ results_summary | default("", true) }}
-
 
 #### Hardware
 

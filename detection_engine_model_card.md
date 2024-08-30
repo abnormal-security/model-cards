@@ -71,16 +71,6 @@ This model is capable of detecting 92% of all known advanced attacks at a 95% pr
 
 {{ results_summary | default("", true) }}
 
-## Model Examination [optional]
-
-<!-- Relevant interpretability work for the model goes here -->
-
-{{ model_examination | default("[More Information Needed]", true)}}
-
-
-### Compute Infrastructure
-
-{{ compute_infrastructure | default("[More Information Needed]", true)}}
 
 #### Hardware
 
